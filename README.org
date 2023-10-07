@@ -1,0 +1,4 @@
+
+#+Title: NEWS API
+
+Queries a NEWS about a topic and send them by email
